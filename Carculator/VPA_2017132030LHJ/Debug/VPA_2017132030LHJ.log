@@ -1,0 +1,4 @@
+﻿  calculator.cpp
+d:\visual2015study\vpa_2017132030lhj\vpa_2017132030lhj\calculator.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  VPA_2017132030LHJ.vcxproj -> D:\visual2015study\VPA_2017132030LHJ\Debug\VPA_2017132030LHJ.exe
+  VPA_2017132030LHJ.vcxproj -> D:\visual2015study\VPA_2017132030LHJ\Debug\VPA_2017132030LHJ.pdb (Partial PDB)

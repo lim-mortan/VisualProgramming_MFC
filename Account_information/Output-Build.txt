@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: lhj, Configuration: Debug Win32 ------
+1>  main.cpp
+1>  lhj.h
+1>  hw1.cpp
+1>  Generating Code...
+1>  lhj.vcxproj -> D:\3학년 1학기\비주얼\HW1\lhj\Debug\lhj.exe
+1>  lhj.vcxproj -> D:\3학년 1학기\비주얼\HW1\lhj\Debug\lhj.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

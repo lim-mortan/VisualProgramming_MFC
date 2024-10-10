@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  satellite.cpp
+  planet_dlg.cpp
+  Planet.cpp
+  MainFrm.cpp
+  2017132030lhjView.cpp
+c:\users\임화종\onedrive\바탕 화면\2017132030lhj\2017132030lhj\2017132030lhjview.cpp(110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\임화종\onedrive\바탕 화면\2017132030lhj\2017132030lhj\2017132030lhjview.cpp(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\임화종\onedrive\바탕 화면\2017132030lhj\2017132030lhj\2017132030lhjview.cpp(119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\임화종\onedrive\바탕 화면\2017132030lhj\2017132030lhj\2017132030lhjview.cpp(123): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  2017132030lhjDoc.cpp
+  2017132030lhj.cpp
+  Generating Code...
+  2017132030lhj.vcxproj -> C:\Users\임화종\OneDrive\바탕 화면\2017132030lhj\Debug\2017132030lhj.exe
+  2017132030lhj.vcxproj -> C:\Users\임화종\OneDrive\바탕 화면\2017132030lhj\Debug\2017132030lhj.pdb (Partial PDB)

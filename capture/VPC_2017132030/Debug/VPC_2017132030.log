@@ -1,0 +1,4 @@
+﻿  VPC_2017132030View.cpp
+d:\3학년 1학기\비주얼\hw3-1\vpc_2017132030\vpc_2017132030\vpc_2017132030view.cpp(78): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  VPC_2017132030.vcxproj -> D:\3학년 1학기\비주얼\HW3-1\VPC_2017132030\Debug\VPC_2017132030.exe
+  VPC_2017132030.vcxproj -> D:\3학년 1학기\비주얼\HW3-1\VPC_2017132030\Debug\VPC_2017132030.pdb (Partial PDB)
